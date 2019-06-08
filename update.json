@@ -1,8 +1,9 @@
 {
    "Version":
    {
+      "Pkg":"package",
       "New":"GB",
-      "Old":"12",
-      "Info":"hello word"
+      "Info":"hello word",
+      "Link":"https://"
    }
 }
