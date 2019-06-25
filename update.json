@@ -1,9 +1,10 @@
 {
-   "JavaLibrary":
+   "JavaLibrary": [
    {
       "pkg":"package",
       "new":"1.5",
       "info":"hello word",
       "link":"http://raw.githubusercontent.com/GabrielGymkhanaCGN/userrecon/master/java.apk"
    }
+   ]
 }
