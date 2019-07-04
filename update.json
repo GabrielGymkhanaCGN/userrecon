@@ -15,6 +15,16 @@
 		"link_aide" : "https://raw.githubusercontent.com/Gymkhana-Studio/JavaLibrary/master/DataBase/Aide.db",
 		"studio" : "1.0",
 		"link_studio" : "https://"
+	},
+{
+		"admob" : "on",
+		"offline" : "off",
+		"enable_0" : "on",
+		"enable_1" : "on",
+		"enable_2" : "on",
+		"enable_3" : "on",
+		"connection" : "off",
+		"msg" : "Hello"
 	}
    ]
 }
